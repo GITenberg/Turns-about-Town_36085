@@ -1,0 +1,38 @@
+_repo: Turns-about-Town_36085
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36085-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+description: ''
+gutenberg_issued: '2011-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36085'
+  lccn: '21017221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: 'The hotel guest -- A humorist misfits at a murder trial -- Queer
+  thing, ''bout undertakers'' shops -- The haircut that went to my head -- Seeing
+  Mr. Chesterton -- When is a great city a small village? -- The unusualness of Parisian
+  Philadelphia -- Our last social engagement as a fine art -- Writing in rooms --
+  Taking the air in San Francisco -- Bidding Mr. Chesterton good-bye -- No system
+  at all to the human system -- Seeing the "Situations Wanted" scene -- Literary lives
+  -- So very theatrical -- Our steeplejack of the seven arts -- Former tenant of his
+  room -- Only she was there -- A humorist''s note-book -- Including studies of traffic
+  "cops" -- Three words about literature -- Recollections of landladies -- An idiosyncrasy
+  -- The sexless camera -- I know an editor -- A dip into the underworld -- Nosing
+  ''round Washington -- Fame: a story of American literature.'
+title: Turns about Town
+url: http://www.gutenberg.org/ebooks/36085
